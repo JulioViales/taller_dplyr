@@ -5,7 +5,7 @@
 #Instalar y cargar las librerias que necesitaremos hoy
 install.packages("hflights")
 install.packages("dplyr")
-install.packages("readxl")
+install.packages("readr")
 
 library(dplyr)
 library(hflights)
